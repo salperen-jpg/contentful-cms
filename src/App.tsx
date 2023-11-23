@@ -1,6 +1,6 @@
-import Hero from "./components/Hero";
-import Projects from "./components/Projects";
-
+import Hero from './components/Hero';
+import Projects from './components/Projects';
+import './fetchProjects';
 function App() {
   return (
     <>
